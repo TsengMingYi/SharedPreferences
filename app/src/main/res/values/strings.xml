@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">註冊練習</string>
+    <string name="register_success_hint">註冊成功</string>
+    <string name="register_fail_account_already_exist">此賬號已被註冊</string>
+    <string name="login_success">登入成功</string>
+    <string name="login_fail">登入失敗</string>
+</resources>
